@@ -32,4 +32,9 @@ ex_dividend_dates = []
 record_dates = []
 payment_dates = []
 earnings_dates = []
+deltas = []  # Delta
+gammas = []  # Gamma
+thetas = []  # Theta
+vegas =[]  # Vega
+rhos = []
 

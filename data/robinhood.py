@@ -732,4 +732,28 @@ securities_dict = {
          'options_available': 'N'
          },
 
+    'HPE':
+        {'shares': 0.0,
+         'avg_cost': 0.0,
+         'options_available': 'Y'
+         },
+
+    'LYFT':
+        {'shares': 0.0,
+         'avg_cost': 0.0,
+         'options_available': 'Y'
+         },
+
+    'AI':
+        {'shares': 0.0,
+         'avg_cost': 0.0,
+         'options_available': 'Y'
+         },
+
+    'FRSH':
+        {'shares': 0.0,
+         'avg_cost': 0.0,
+         'options_available': 'Y'
+         },
+
 }

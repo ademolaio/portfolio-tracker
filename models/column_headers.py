@@ -1,6 +1,3 @@
-from archive.column_list import avg_volumes, betas, declaration_dates, ex_dividend_dates, record_dates, payment_dates, \
-    earnings_dates
-
 names = []
 exchanges = []
 security_types = []
