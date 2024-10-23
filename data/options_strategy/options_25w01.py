@@ -12,7 +12,7 @@ securities_dict = {
 
     'BB':
         {'shares': 101.0,
-         'avg_cost': 2.17,
+         'avg_cost': 2.42,
          },
 
     'BLNK':
@@ -28,12 +28,12 @@ securities_dict = {
 
     'CHPT':
         {'shares': 105.0,
-         'avg_cost': 1.43,
+         'avg_cost': 1.28,
          },
 
     'CLOV':
         {'shares': 101.0,
-         'avg_cost': 2.59,
+         'avg_cost': 3.59,
          },
 
     'F':
@@ -48,7 +48,7 @@ securities_dict = {
 
     'FUBO':
         {'shares': 101.0,
-         'avg_cost': 1.39,
+         'avg_cost': 1.44,
          },
 
     'GOEV':
@@ -57,8 +57,8 @@ securities_dict = {
          },
 
     'LAZR':
-        {'shares': 3.0,
-         'avg_cost': 0.91,
+        {'shares': 103.0,
+         'avg_cost': 0.8472,
          },
 
     'LCID':
@@ -83,7 +83,7 @@ securities_dict = {
 
     'OPEN':
         {'shares': 107.0,
-         'avg_cost': 2.27,
+         'avg_cost': 1.91,
          },
 
     'PATH':
@@ -93,7 +93,7 @@ securities_dict = {
 
     'PLUG':
         {'shares': 103.0,
-         'avg_cost': 1.94,
+         'avg_cost': 2.11,
          },
 
     'PSNY':
@@ -118,7 +118,7 @@ securities_dict = {
 
     'SOFI':
         {'shares': 101.0,
-         'avg_cost': 7.75,
+         'avg_cost': 7.74,
          },
 
     'WBD':
